@@ -1,0 +1,29 @@
+# 마크다운 원본 파일
+20250729_Traing_Prep.md
+
+# 시스템 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+*~
+
+# 백업 파일
+*.bak
+*.backup
